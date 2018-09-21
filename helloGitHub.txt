@@ -1,0 +1,9 @@
+Bonjour 
+Créer un laboRepository dans votre pc.
+Transformer le dossier laboRepository de votre pc en un dépôt de 
+code laboRepository qui sera envoyé sur GitHub.
+Partager avec tout ceux que vous souhaiterez. 
+cd laboRepository a travers l'invite de commande
+git init
+il y a creation du dossier /.git dans le dossier 
+laboRepository 
